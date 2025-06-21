@@ -1,4 +1,7 @@
 # Python virtual environment
 venv
 
+# Python compiled artifacts
+*.pyc
+
 .DS_Store
